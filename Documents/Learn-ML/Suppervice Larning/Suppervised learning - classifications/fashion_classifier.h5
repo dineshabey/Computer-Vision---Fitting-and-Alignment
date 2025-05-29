@@ -1,0 +1,11 @@
+
+---
+
+### 🧠 5. Push to GitHub
+
+```bash
+git init
+git remote add origin https://github.com/yourusername/fashion-classifier.git
+git add .
+git commit -m "Initial commit for Hugging Face Space"
+git push -u origin main
